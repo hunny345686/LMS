@@ -1,0 +1,100 @@
+*{margin: 0; padding: 0; box-sizing: border-box;  }
+
+.header{
+	height: 70px;
+	background-color: #148bc6;
+	color: white;
+	font-weight: bolder;
+}
+
+.bnr{
+	background:url('../img/c.jpg');
+	height: 400px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	position: absolute;
+	z-index: 1px;
+}
+
+.iner{
+	width: 70%;
+	height: 350px;
+	background: #14bbc6;
+	position: absolute;
+	z-index: 5px;
+	margin-left: 80px;
+	margin-top: 120px;
+	opacity: 2;
+	border-radius: 10px;
+	box-shadow: 1px 1px 3px 4px black;
+	padding: 10px;
+}
+.login{
+	width: 100%;
+	height: 400px;
+}
+.login table{
+	width: 70%;
+	height: 100px;
+	margin-top: 30px;
+	border-radius: 50%;
+	margin-left: 40px;
+}
+
+/*HOme Page Css Ends*/
+
+
+/*Desh bord Page Css Start*/
+
+
+.desh_iner{
+	width: 85%;
+	height: 400px;
+	background: #14bbc6;
+	position: absolute;
+	z-index: 5px;
+	margin-left: 100px;
+	margin-top: 120px;
+	opacity: 2;
+	border-radius: 10px;
+	box-shadow: 1px 1px 3px 4px black;
+	padding: 10px;
+}
+.list{
+	background-color: #808080;
+	margin-bottom: 200px;
+}
+.list p a:hover{
+	color: white;
+	background-color: black;
+
+}
+.list p a{
+	color: white;
+	text-decoration: none;
+	padding: 1px;
+}
+
+.book_stock_manage_list{
+	width: 	100%;
+	height: 300px;
+	margin-top: 15px;
+}
+
+.book_stock_manage_list p a{
+	color: 	white;
+	margin: 100px;
+	text-decoration: none;	
+}
+
+.abc{
+	font-size: 20px;
+}
+
+#author{
+	margin-left: 60px;
+	width: 70%;
+	height: 320px;
+}
+
+
